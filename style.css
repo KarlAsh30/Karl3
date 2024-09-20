@@ -1,0 +1,53 @@
+.body{
+    background-color: #F0F2F5;
+
+}
+
+.box{
+    margin: 0 15% 0 15%;
+    background-color: #FFFFFF;
+    width: auto;
+    height: 700px;
+    box-shadow: 5px 5px 5px 5px rgb(211, 193, 193);
+    border-radius: 20px ;
+    background: url(
+        https://img.meta.com.vn/Data/image/2021/09/30/background-la-gi-anh-background-dep-9.png
+        );
+}
+.title{
+    padding-top: 35px;
+    margin-left: 32%;
+    font-size: 50px;
+}
+.imgbxo{
+    margin-top: 50px;
+    text-align: center;
+    
+}
+.imgone{
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+}
+.bt{
+    margin-top: 20px;
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    background-color: #0070FF;
+    color: white;
+}
+.bt:hover{
+    background-color: yellowgreen;
+}
+.sub{
+    margin-right:10px ;
+}
+.notsub{
+    margin-left:10px ;
+}
+.content{
+    margin-top: 10px;
+    font-size: 55px;
+}
